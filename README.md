@@ -8,5 +8,4 @@ Usage of .\oracle-table-generator.exe:
   -output-filepath string
         path to the resulting file (the one containing the table script)
 ```
-<br>
-Example file available in the `sample` file.
+<br>Example file available in the `sample` file.
